@@ -31,14 +31,22 @@ A API foi projetada para ser RESTful e fácil de usar, possui alguns *endpoints*
 - Emitir Extrato Bancário
 <div  align="center" style="margin-bottom:100px">
 Exemplos de como mostra a listagem de contas, utilizando o INSOMNIA.
+	
+![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/7ac2bfc0-b3a2-469c-a172-5ce4c365c713)
+
 
 ![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/f1e5a70b-6c99-49b9-a8cb-7371e468153f)
 
 Deposito na conta de numero unico 2
 
+![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/ce244758-202c-42d4-af77-b4ae63de1a61)
+
 ![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/b277779f-2901-4226-9ce7-0f9037d27be8)
 
 Ao consultar o saldo da conta 2
+
+![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/5c76b5dc-7108-4175-a7d7-53352968d431)
+
 
 ![image](https://github.com/rayannegomes/RESTful-API-em-JS/assets/115596746/f3986d9d-a941-4d7d-a7c9-19b4c434d21a)
 
